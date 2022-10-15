@@ -2,8 +2,8 @@
 # Link: 
 # Tarea 2 
 integrantes
-1- ivan saavedra
-2- deyka jordan
-3- issac Perdomo
-4- Elena linares
-5- alexis Garcias 
+1- Ivan Saavedra
+2- Deyka Jordan
+3- Issac Perdomo
+4- Elena Linares
+5- Alexis Garcías 
